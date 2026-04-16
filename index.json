@@ -1,0 +1,430 @@
+{
+  "MAT142": {
+    "Vize": [
+      {
+        "title": "Calculus II Midterm 1 - Spring 2026",
+        "course": {
+          "code": "MAT142"
+        },
+        "academic": {
+          "year": 2026,
+          "term": "spring"
+        },
+        "classification": {
+          "elective": true,
+          "material_type": "midterm"
+        },
+        "file": {
+          "type": "pdf",
+          "name": "MATH_142_Midterm1_25_26_Spring_Solution Key.pdf"
+        },
+        "tags": [
+          "calculus",
+          "integration"
+        ],
+        "meta": {
+          "language": "en",
+          "source": "instructor",
+          "confidential": false
+        },
+        "id": "2526springmt1",
+        "category": "midterm",
+        "category_label": "Vize"
+      }
+    ],
+    "Kitap": [
+      {
+        "title": "George B. Thomas, Joel Hass, Christopher Heil, Przemyslaw Bogack - Thomas’ Calculus. Early Transcendentals (2024, Pearson) - libgen.li (1).pdf",
+        "course": {
+          "code": "MAT142"
+        },
+        "academic": {
+          "year": 2026,
+          "term": "spring"
+        },
+        "classification": {
+          "elective": true,
+          "material_type": "book"
+        },
+        "file": {
+          "type": "pdf",
+          "name": "calculus_early_transcendentals.pdf"
+        },
+        "tags": [
+          "materials"
+        ],
+        "meta": {
+          "language": "en",
+          "source": "instructor",
+          "confidential": false
+        },
+        "id": "trancedentals",
+        "category": "book",
+        "category_label": "Kitap"
+      }
+    ],
+    "Recitation": [
+      {
+        "title": "2025-2026 Recitation 5",
+        "course": {
+          "code": "MAT142"
+        },
+        "academic": {
+          "year": 2026,
+          "term": "spring"
+        },
+        "classification": {
+          "elective": true,
+          "material_type": "recitation"
+        },
+        "file": {
+          "type": "pdf",
+          "name": "Math142_spring_25_26_recit5 copy.pdf"
+        },
+        "tags": [
+          "materials"
+        ],
+        "meta": {
+          "language": "en",
+          "source": "instructor",
+          "confidential": false
+        },
+        "id": "2526_r5",
+        "category": "recitation",
+        "category_label": "Recitation"
+      },
+      {
+        "title": "2025-2026 Recitation 2",
+        "course": {
+          "code": "MAT142"
+        },
+        "academic": {
+          "year": 2026,
+          "term": "spring"
+        },
+        "classification": {
+          "elective": true,
+          "material_type": "recitation"
+        },
+        "file": {
+          "type": "pdf",
+          "name": "M142_Recitation_week_2.pdf"
+        },
+        "tags": [
+          "materials"
+        ],
+        "meta": {
+          "language": "en",
+          "source": "instructor",
+          "confidential": false
+        },
+        "id": "2526_r2",
+        "category": "recitation",
+        "category_label": "Recitation"
+      },
+      {
+        "title": "2025-2026 Recitation 4",
+        "course": {
+          "code": "MAT142"
+        },
+        "academic": {
+          "year": 2026,
+          "term": "spring"
+        },
+        "classification": {
+          "elective": true,
+          "material_type": "recitation"
+        },
+        "file": {
+          "type": "pdf",
+          "name": "Math142-Reci-Week5.pdf"
+        },
+        "tags": [
+          "materials"
+        ],
+        "meta": {
+          "language": "en",
+          "source": "instructor",
+          "confidential": false
+        },
+        "id": "2526_r4",
+        "category": "recitation",
+        "category_label": "Recitation"
+      },
+      {
+        "title": "2025-2026 Recitation 3",
+        "course": {
+          "code": "MAT142"
+        },
+        "academic": {
+          "year": 2026,
+          "term": "spring"
+        },
+        "classification": {
+          "elective": true,
+          "material_type": "recitation"
+        },
+        "file": {
+          "type": "pdf",
+          "name": "Math142_spring_25_26_Recitation3.pdf"
+        },
+        "tags": [
+          "materials"
+        ],
+        "meta": {
+          "language": "en",
+          "source": "instructor",
+          "confidential": false
+        },
+        "id": "2526_r3",
+        "category": "recitation",
+        "category_label": "Recitation"
+      },
+      {
+        "title": "2025-2026 Recitation 1",
+        "course": {
+          "code": "MAT142"
+        },
+        "academic": {
+          "year": 2026,
+          "term": "spring"
+        },
+        "classification": {
+          "elective": true,
+          "material_type": "recitation"
+        },
+        "file": {
+          "type": "pdf",
+          "name": "Math142_spring_25_26_recit1.pdf"
+        },
+        "tags": [
+          "materials"
+        ],
+        "meta": {
+          "language": "en",
+          "source": "instructor",
+          "confidential": false
+        },
+        "id": "2526_r1",
+        "category": "recitation",
+        "category_label": "Recitation"
+      }
+    ],
+    "Syllabus": [
+      {
+        "title": "Calculus II 2025-2026 Spring Syllabus",
+        "course": {
+          "code": "MAT142"
+        },
+        "academic": {
+          "year": 2026,
+          "term": "spring"
+        },
+        "classification": {
+          "elective": true,
+          "material_type": "syllabus"
+        },
+        "file": {
+          "type": "pdf",
+          "name": "Syllabus MATH 142_Spring 2025-26.pdf"
+        },
+        "tags": [
+          "calculus",
+          "integration"
+        ],
+        "meta": {
+          "language": "en",
+          "source": "instructor",
+          "confidential": false
+        },
+        "id": "2526syllabus",
+        "category": "syllabus",
+        "category_label": "Syllabus"
+      }
+    ]
+  },
+  "PHYS112": {
+    "Kitap": [
+      {
+        "title": "Lab Manual for PHYS112 - General Physics II",
+        "course": {
+          "code": "PHYS112"
+        },
+        "academic": {
+          "year": 2020,
+          "term": "spring"
+        },
+        "classification": {
+          "elective": true,
+          "material_type": "book"
+        },
+        "file": {
+          "type": "pdf",
+          "name": "PHYS112-LabManual.pdf"
+        },
+        "tags": [
+          "materials"
+        ],
+        "meta": {
+          "language": "en",
+          "source": "instructor",
+          "confidential": false
+        },
+        "id": "lab_manual",
+        "category": "book",
+        "category_label": "Kitap"
+      }
+    ]
+  },
+  "ME150": {
+    "Slayt": [
+      {
+        "title": "ME150 - 2025-2026 Week 2 Slide",
+        "course": {
+          "code": "ME150"
+        },
+        "academic": {
+          "year": 2026,
+          "term": "spring"
+        },
+        "classification": {
+          "elective": true,
+          "material_type": "slide"
+        },
+        "file": {
+          "type": "pdf",
+          "name": "ME150_Chapter_2.pdf"
+        },
+        "tags": [
+          "materials"
+        ],
+        "meta": {
+          "language": "en",
+          "source": "instructor",
+          "confidential": false
+        },
+        "id": "me150_2526_week2",
+        "category": "slide",
+        "category_label": "Slayt"
+      },
+      {
+        "title": "ME150 - 2025-2026 Week 1 Slide",
+        "course": {
+          "code": "ME150"
+        },
+        "academic": {
+          "year": 2026,
+          "term": "spring"
+        },
+        "classification": {
+          "elective": true,
+          "material_type": "slide"
+        },
+        "file": {
+          "type": "pptx",
+          "name": "ME150_Week 1.pptx"
+        },
+        "tags": [
+          "materials"
+        ],
+        "meta": {
+          "language": "en",
+          "source": "instructor",
+          "confidential": false
+        },
+        "id": "me150_2526_week1",
+        "category": "slide",
+        "category_label": "Slayt"
+      },
+      {
+        "title": "ME150 - 2025-2026 Week 3 Slide",
+        "course": {
+          "code": "ME150"
+        },
+        "academic": {
+          "year": 2026,
+          "term": "spring"
+        },
+        "classification": {
+          "elective": true,
+          "material_type": "slide"
+        },
+        "file": {
+          "type": "pdf",
+          "name": "ME150_Chapter_3.pdf"
+        },
+        "tags": [
+          "materials"
+        ],
+        "meta": {
+          "language": "en",
+          "source": "instructor",
+          "confidential": false
+        },
+        "id": "me150_2526_week3",
+        "category": "slide",
+        "category_label": "Slayt"
+      },
+      {
+        "title": "ME150 - 2025-2026 Week 1 Slide",
+        "course": {
+          "code": "ME150"
+        },
+        "academic": {
+          "year": 2026,
+          "term": "spring"
+        },
+        "classification": {
+          "elective": true,
+          "material_type": "slide"
+        },
+        "file": {
+          "type": "pdf",
+          "name": "ME150_Chapter_4.pdf"
+        },
+        "tags": [
+          "materials"
+        ],
+        "meta": {
+          "language": "en",
+          "source": "instructor",
+          "confidential": false
+        },
+        "id": "me150_2526_week4",
+        "category": "slide",
+        "category_label": "Slayt"
+      }
+    ],
+    "Kitap": [
+      {
+        "title": "ME150 - Materials Science and Engineering: An Introduction",
+        "course": {
+          "code": "ME150"
+        },
+        "academic": {
+          "year": 2026,
+          "term": "spring"
+        },
+        "classification": {
+          "elective": true,
+          "material_type": "book"
+        },
+        "file": {
+          "type": "pdf",
+          "name": "ME - 150.pdf"
+        },
+        "tags": [
+          "materials"
+        ],
+        "meta": {
+          "language": "en",
+          "source": "instructor",
+          "confidential": false
+        },
+        "id": "mse_book",
+        "category": "book",
+        "category_label": "Kitap"
+      }
+    ]
+  }
+}
